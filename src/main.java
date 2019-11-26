@@ -8,9 +8,9 @@ public class main {
         //System.out.println(PalindromeNumber_9.isPalindrome(-1234321));
 
         //13. Roman to Integer
-        System.out.println(RomantoInteger_13.romanToInt("MCMXCIV"));
-        System.out.println(RomantoInteger_13.romanToInt("LVIII"));
-        System.out.println(RomantoInteger_13.romanToInt("IX"));
+        System.out.println(RomanToInteger_13.romanToInt("MCMXCIV"));
+        System.out.println(RomanToInteger_13.romanToInt("LVIII"));
+        System.out.println(RomanToInteger_13.romanToInt("IX"));
 
     }
 }
