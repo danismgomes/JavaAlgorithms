@@ -1,5 +1,5 @@
 public class LongestCommonPrefix_14 {
-    public String longestCommonPrefix(String[] strs) {
+    public static String longestCommonPrefix(String[] strs) {
 
         if(strs.length==0)return "";
 
