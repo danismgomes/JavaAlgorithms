@@ -19,10 +19,14 @@ public class main {
 //        System.out.println(LongestCommonPrefix_14.longestCommonPrefix(stgs2));
 
         //20. Valid Parentheses
-        System.out.println(ValidParentheses_20.isValid("(())[]"));
-        System.out.println(ValidParentheses_20.isValid("(("));
-        System.out.println(ValidParentheses_20.isValid("]"));
-        System.out.println(ValidParentheses_20.isValid("]]"));
+//        System.out.println(ValidParentheses_20.isValid("(())[]"));
+////        System.out.println(ValidParentheses_20.isValid("(("));
+////        System.out.println(ValidParentheses_20.isValid("]"));
+////        System.out.println(ValidParentheses_20.isValid("]]"));
+
+        //347. Top K Frequent Elements
+        int[] nums = {1,1,1,2,2,2,3};
+        System.out.println(TopKFrequentElements_347.topKFrequent(nums, 2).toString());
 
     }
 }
