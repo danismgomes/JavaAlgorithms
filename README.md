@@ -2,7 +2,7 @@
 
 These algorithms I wrote to have fun and also to remember techniques to solve logic problems.
 
-Inside src folder there are the follow solutions:
+Inside *src* folder there are the follow solutions:
 
 * Logest Common Prefix (https://leetcode.com/problems/longest-common-prefix/);
 * Merge Two Sorted List (https://leetcode.com/problems/merge-two-sorted-lists/);
