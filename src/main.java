@@ -26,7 +26,7 @@ public class main {
 
         //347. Top K Frequent Elements
         int[] nums = {1,1,1,2,2,2,3};
-        System.out.println(TopKFrequentElements_347.topKFrequent(nums, 2).toString());
-
+        //System.out.println(TopKFrequentElements_347.topKFrequent(nums, 2).toString());
+        System.out.println(RemoveDuplicatesFromSortedArray_26.removeDuplicates(nums));
     }
 }
